@@ -113,6 +113,10 @@ main{
   color: #3580C1;
   margin: 5px 10px 5px 5px;
 }
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+}
 .items{
   width: calc(33% - 12px - 2px);
   border: 1px solid #a1d3f7;
